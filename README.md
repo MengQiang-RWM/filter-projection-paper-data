@@ -1,5 +1,9 @@
 # 过滤与投影：大模型语义站位的条件依赖性
 
+## 论文
+
+- `main.pdf`：Filtering-Projection: Conditional Dependence of Semantic Stance in Large Language Models（英文版）
+
 ## 原始实验数据
 
 本仓库包含论文《过滤与投影：大模型语义站位的条件依赖性》的全部原始对话数据。
